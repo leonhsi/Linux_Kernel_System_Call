@@ -11,7 +11,7 @@ OS : Ubuntu desktop 16.04 LTS 32bit
 
 Architecture : x86
 
-kernel version : 3.10
+Kernel version : 3.10
 
 ## Methods
 ### Idea
