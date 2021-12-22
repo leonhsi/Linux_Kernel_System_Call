@@ -29,7 +29,7 @@ Hence we can print out the content of MKPGD from different processes, if the res
 * Use a while loop to get entries of the PGD, and print out the content of each entry
 
 ### Result
-![image](https://user-images.githubusercontent.com/79996909/147092893-063421c4-f262-46c2-b18c-cfc1316fbf9d.png)
+![1 drawio (1)](https://user-images.githubusercontent.com/79996909/147093998-1f9dd687-d202-4c8e-9b04-77f66efb84cf.png)
 
 
 
